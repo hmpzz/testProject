@@ -19,7 +19,7 @@ namespace WaitForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            WaitForm a = new WaitForm(this);
+          
             
         }
     }
